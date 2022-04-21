@@ -1,1 +1,1 @@
-# This is a test repo for testing functionality
+# A repo for testing github functionality
